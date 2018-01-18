@@ -4,7 +4,7 @@
 #### [reddit/netsec](https://www.reddit.com/r/netsec/wiki/start)
 
 ### HOW TO BECOME A PENTESTER BY CORELAN TEAM:
-#### [corelan] (https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+#### [corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
 
 ### REVIEW: OSCP AND PWK
 #### https://tulpa-security.com/2016/09/11/review-oscp-and-pwk/
@@ -20,9 +20,9 @@
 #### The Shellcoder’s Handbook, 2nd Edition, Chirs Anley , Wiley, 2007
 
 ### SHOULD READ Websites:
-#### [corelan] (https://www.corelan.be/)
-#### [phrack](http://www.phrack.org/ Issues section)
-#### [exploit-db] (http://www.exploit-db.com/papers/)
+#### [corelan](https://www.corelan.be/)
+#### [phrack](http://www.phrack.org/) Issues section
+#### [exploit-db](http://www.exploit-db.com/papers/)
 
 ### SHOULD READ Books:
 #### Hacking: The Art of Exploitation, 2nd Edition,Jon Erickson, No Starch press,2008
