@@ -1,7 +1,7 @@
-INFORMATION SECURITY TRAINING USEFUL LINKS & BOOKS
+# INFORMATION SECURITY TRAINING USEFUL LINKS & BOOKS
 
-GETTING STARTED IN INFORMATION SECURITY:
-https://www.reddit.com/r/netsec/wiki/start
+## GETTING STARTED IN INFORMATION SECURITY:
+### (https://www.reddit.com/r/netsec/wiki/start)
 
 HOW TO BECOME A PENTESTER BY CORELAN TEAM:
 https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
