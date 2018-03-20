@@ -1,32 +1,30 @@
-## INFORMATION SECURITY TRAINING USEFUL LINKS & BOOKS
-
-### GETTING STARTED IN INFORMATION SECURITY:
-- [reddit/netsec](https://www.reddit.com/r/netsec/wiki/start)
-- [krebs](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-- [ironin](http://ir0nin.com/)
-- [ctf](https://trailofbits.github.io/ctf/)
-- [talos](http://blog.talosintelligence.com/2013/01/how-to-become-infosec-expert-part-i.html?m=1)
-- 
-
-### HOW TO BECOME A PENTESTER BY CORELAN TEAM:
-- [corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
-
-### REVIEW: OSCP AND PWK
-- https://tulpa-security.com/2016/09/11/review-oscp-and-pwk/
-
-### PREP GUIDE FOR OFFSEC’S PWK
-- https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/
-- https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf
-
+## INFORMATION SECURITY TRAINING LINKS & BOOKS
 ### WEB:
-#### Linux/Unix
+#### GETTING STARTED IN INFORMATION SECURITY:
+- [reddit/netsec sources](https://www.reddit.com/r/netsec/wiki/start)
+
+#### Advice:
+- [krebs](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+- [talos](http://blog.talosintelligence.com/2013/01/how-to-become-infosec-expert-part-i.html?m=1)
+- [corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+- [ironin](http://ir0nin.com/)
+
+#### Linux/Unix Tools
 - [bash awk sed](http://www.grymoire.com/Unix/index.html)
 - [commands sorted](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 - [vi basic](http://www.cs.colostate.edu/helpdocs/vi.html)
+- [vi game](https://vim-adventures.com/)
+- [vi with python](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+
 #### Pen-Testing
 - [pen test sources](https://github.com/enaqx/awesome-pentest/blob/master/README.md)
+- [ctf guide](https://trailofbits.github.io/ctf/)
 - [vuln&attack labs](http://www.cis.syr.edu/~wedu/seed/all_labs.html)
--
+
+#### Prep Guide & Review: OSCP and PWK
+- [Detailed Guide on OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+- [Review OSCP](https://tulpa-security.com/2016/09/11/review-oscp-and-pwk/)
+- [Guide For PWK](https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/)
 
 #### Exploit Essentials
 - [corelan](https://www.corelan.be/)
@@ -34,6 +32,7 @@
 - [exploit-db](http://www.exploit-db.com/papers/)
 
 ### BOOKS:
+#### Social
 - The Cuckoo's Egg
 #### Pen-Testing
 - Penetration Testing - A hands-on introduction to Hacking, Georgia Wiedman, No Starch, 2014
@@ -61,7 +60,7 @@
 - The Shellcoder's Handbook, 2nd Edition, Chirs Anley , Wiley, 2007
 - The Rootkit Arsenal, Bill Blunden, Wordware, 2009
 - Intel 64 and IA-32 Architectures Software Developer’s Manual
-### For OSCP Prep. and NetSec Training
+#### For OSCP Prep. and NetSec Training
 - Penetration Testing - A hands-on introduction to Hacking, Georgia Wiedman, No Starch, 2014
 - The Hacker Playbook 2 - Practical Guide To Penetration Testing, Peter Kim, 2015
 - The Web Application Hacker's Handbook, Second Edition, Dafydd Stuttard, Wiley,   2011
