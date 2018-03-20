@@ -25,6 +25,7 @@
 - [exploit-db](http://www.exploit-db.com/papers/)
 
 ### SHOULD READ Books:
+#### Exploit Writing
 - Hacking: The Art of Exploitation, 2nd Edition,Jon Erickson, No Starch press,2008
 - Gray Hat Hacking, 4th Edition, Daniel Regalado,  Mc Graw Hill Education, 2015
 - Violent Python, TJ O'Connor, Syngress, 2013
@@ -32,3 +33,15 @@
 - The Shellcoder's Handbook, 2nd Edition, Chirs Anley , Wiley, 2007
 - The Rootkit Arsenal, Bill Blunden, Wordware, 2009
 - Intel 64 and IA-32 Architectures Software Developer’s Manual
+#### Pen-Testing
+- Penetration Testing - A hands-on introduction to Hacking, Georgia Wiedman, No Starch, 2014
+- The Hacker Playbook 2 - Practical Guide To Penetration Testing, Peter Kim, 2015
+- The Web Application Hacker's Handbook, Second Edition, Dafydd Stuttard, Wiley,   2011
+- Hacking Exposed, 6th Edition 2009
+#### Malware Analysis
+- Practical Reverse Engineering
+- Practical_Malware_Analysis, 2012
+- The IDA Pro Book 2nd Edition, 2011
+- Malware Analyst's Cookbook, 2011
+#### Forensics
+- The Basics of Digital Forensics, John Sammons - 2012
