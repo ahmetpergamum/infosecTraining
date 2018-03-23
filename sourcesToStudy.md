@@ -4,14 +4,14 @@
 - [reddit/netsec sources](https://www.reddit.com/r/netsec/wiki/start)
 
 #### Advice:
-- [krebs](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-- [talos](http://blog.talosintelligence.com/2013/01/how-to-become-infosec-expert-part-i.html?m=1)
-- [corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
-- [ironin](http://ir0nin.com/)
+- [krebs: How to Break Into Security](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+- [talos: How To Become an Infosec Expert](http://blog.talosintelligence.com/2013/01/how-to-become-infosec-expert-part-i.html?m=1)
+- [corelan: How to become a pentester](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+- [ironin: Getting Started](http://ir0nin.com/)
 
 #### Linux/Unix Tools
-- [bash awk sed](http://www.grymoire.com/Unix/index.html)
-- [commands sorted](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+- [grymoire: bash awk sed](http://www.grymoire.com/Unix/index.html)
+- [commandlinefu: commands sorted](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 - [vi basic](http://www.cs.colostate.edu/helpdocs/vi.html)
 - [vi game](https://vim-adventures.com/)
 - [vi with python](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
@@ -32,8 +32,8 @@
 - [exploit-db](http://www.exploit-db.com/papers/)
 
 ### BOOKS:
-#### Social
-- The Cuckoo's Egg
+#### Non-Fiction
+- The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage
 #### Pen-Testing
 - Penetration Testing - A hands-on introduction to Hacking, Georgia Wiedman, No Starch, 2014
 - The Hacker Playbook 2 - Practical Guide To Penetration Testing, Peter Kim, 2015
