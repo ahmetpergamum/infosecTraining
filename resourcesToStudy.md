@@ -3,7 +3,7 @@
 #### GETTING STARTED IN INFORMATION SECURITY:
 - [reddit/netsec resources: Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start)
 
-#### Advice:
+#### Advice
 - [krebs: How to Break Into Security](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 - [talos: How To Become an Infosec Expert](http://blog.talosintelligence.com/2013/01/how-to-become-infosec-expert-part-i.html?m=1)
 - [corelan: How to become a pentester](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
