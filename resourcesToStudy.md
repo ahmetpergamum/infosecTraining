@@ -1,7 +1,7 @@
 ## INFORMATION SECURITY TRAINING RESOURCES
 ### WEB:
 #### GETTING STARTED IN INFORMATION SECURITY:
-- [reddit/netsec sources](https://www.reddit.com/r/netsec/wiki/start)
+- [reddit/netsec resources: Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start)
 
 #### Advice:
 - [krebs: How to Break Into Security](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
