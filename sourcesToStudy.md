@@ -1,4 +1,4 @@
-## INFORMATION SECURITY TRAINING LINKS & BOOKS
+## INFORMATION SECURITY TRAINING RESOURCES
 ### WEB:
 #### GETTING STARTED IN INFORMATION SECURITY:
 - [reddit/netsec sources](https://www.reddit.com/r/netsec/wiki/start)
