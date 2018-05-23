@@ -31,6 +31,9 @@
 - [phrack](http://www.phrack.org/) Issues section
 - [exploit-db](http://www.exploit-db.com/papers/)
 
+#### DFIR Reference
+- [dfir](https://github.com/mgoffin/dfir_reference)
+
 ### BOOKS:
 #### Non-Fiction
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage
