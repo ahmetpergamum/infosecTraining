@@ -42,7 +42,8 @@
 - The Hacker Playbook 2 - Practical Guide To Penetration Testing, Peter Kim, 2015
 - The Web Application Hacker's Handbook, Second Edition, Dafydd Stuttard, Wiley,   2011
 - The Basics of Hacking and Penetration Testing, 2011
-- Hacking Exposed 7
+- Hacking Exposed 7  
+- How to Hack Like a Legend - A hacker’s tale breaking into a secretive offshore company, Sparc Flow, 2018  
 #### Malware Analysis
 - Practical Reverse Engineering, Bruce Dang, Wiley, 2014
 - Practical Malware Analysis, 1st Edition, Michael Sikorski
@@ -54,7 +55,8 @@
 - File System Forensic Analysis, 1st Edition
 - Windows Forensic Analysis Toolkit, Fourth Edition
 - The Art of Memory Forensics, 1st Edition
-- Incident Response & Computer Forensics, Third Edition, Jason T. Luttgens
+- Incident Response & Computer Forensics, Third Edition, Jason T. Luttgens  
+- How to Investigate Like a Rockstar - Live a real crisis to master the secrets of forensic analysis, Sparc Flow, 2018
 #### Exploit Essentials
 - Hacking: The Art of Exploitation, 2nd Edition,Jon Erickson, No Starch press,2008
 - Gray Hat Hacking, 4th Edition, Daniel Regalado,  Mc Graw Hill Education, 2015
